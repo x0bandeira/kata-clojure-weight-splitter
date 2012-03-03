@@ -4,7 +4,9 @@ Splits a collection into two groups of same weight
 
 ## Usage
 
-FIXME: write
+  lein run 5 2 4 1
+
+  lein run 10 5 5 5 5
 
 ## License
 
